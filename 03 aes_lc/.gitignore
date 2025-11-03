@@ -1,0 +1,32 @@
+# Visual Studio / MSVC
+*.sln
+*.vcxproj*
+*.vcxproj.user
+*.sdf
+.vs/
+
+# Build outputs
+Debug/
+Release/
+bin/
+obj/
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.idb
+
+# Logs / temp
+*.log
+*.tlog
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# editor
+*.user
+*.swp

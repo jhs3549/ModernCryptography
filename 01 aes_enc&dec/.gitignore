@@ -1,0 +1,30 @@
+# Visual Studio
+*.sln
+*.vcxproj*
+*.user
+*.vcxproj.filters
+.vs/
+
+# Build outputs
+bin/
+Debug/
+Release/
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+
+# logs
+*.log
+aes.log
+*.tlog
+
+# images and tests
+*.jpeg
+*.jpg
+*.png
+*.encrypted
